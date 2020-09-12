@@ -2,6 +2,6 @@ import { createApp } from "vue";
 
 import "./index.css";
 
-import Test from "remote/Test";
+import App from "./App.vue";
 
-createApp(Test).mount("#app");
+createApp(App).mount("#app");
