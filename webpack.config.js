@@ -8,7 +8,7 @@ module.exports = {
   },
 
   resolve: {
-    extensions: [".jsx", ".js", ".json"],
+    extensions: [".vue", ".jsx", ".js", ".json"],
   },
 
   devServer: {

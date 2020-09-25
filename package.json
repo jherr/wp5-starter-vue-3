@@ -27,6 +27,6 @@
     "vue-template-compiler": "^2.6.12"
   },
   "dependencies": {
-    "vue": "3.0.0-rc.10"
+    "vue": "3.0.0"
   }
 }
